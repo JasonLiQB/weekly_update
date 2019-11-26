@@ -2,7 +2,7 @@
 
 ### progress weekly update on 11/22/2019
 ------------------
-* Currently focusing on automl: pytesting improvement and conduct end to end test.
+* Interal project automl: focusing on pytesting improvement and conduct end to end test.
 
 * Client project update:
  
