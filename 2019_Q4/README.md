@@ -6,6 +6,6 @@
 
 * Client project update:
  
-For Canada project: the visa application is ongoing and need at least two weeks to get the visa in hand. Original email from Hr team was forwarded to you.
+- For Canada project: the visa application is ongoing and need at least two weeks to get the visa in hand.
 
-For other potential projects from @jeana.tao, I received an email yesterday from Jeana asking for my profile and scheduled a phone call with her on Dec 4, I think she has some ideas about what temperate project I could fit in.
+- For other potential projects from @jeana.tao, I received an email yesterday from Jeana asking for my profile and scheduled a phone call with her on Dec 4, I think she has some ideas about what temperate project I could fit in.
