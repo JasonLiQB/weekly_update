@@ -10,7 +10,7 @@ model = AutoMLClassifier(
 )
 
 model.fit(X_, y_raw_, total_time=60, max_time_per_task=60)
-### able to finish the ray tune optimization
+### **successfully** finish the ray tune optimization
 
 model.best_config_:
 >>>
