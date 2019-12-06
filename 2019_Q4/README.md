@@ -3,7 +3,7 @@
 ### progress weekly update on 12/05/2019
 -----------------
 * Interal project **automl** : 
-   - Created two pull requests fixing which enable automl pipeline able to run.
+   - Created two pull requests for automl, enable automl pipeline to run.
 
 * Canada project:
    - Had a discussion session with whole team and will learn more about the model. Will join the team physically in Jan 2020 
